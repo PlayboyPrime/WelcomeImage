@@ -65,7 +65,7 @@ This category contains information about the image.
 
 ImageName: Here you have to put an picture file name that is inside of /BotFiles/mods/WelcomeImage
 
-Widgth: This will be the width of the generated image. 750 is recommended.
+Width: This will be the width of the generated image. 750 is recommended.
 
 Height: This will be the height of the generated image. 250 is recommended.
 
