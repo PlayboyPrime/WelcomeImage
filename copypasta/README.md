@@ -40,12 +40,7 @@ Version 1.0.0
     
     "Image": {
 
-        "ImageText2": {
-            "Text": "",
-            "Size": ""
-        },
-
-        "ImageText3": {
+        "ImageText1": {
             "Text": "",
             "Size": ""
         }
