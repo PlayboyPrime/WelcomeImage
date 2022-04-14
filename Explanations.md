@@ -7,7 +7,7 @@
 
 ## Send a Message or Embed (not both) when someone joins.
 
-## Variables you can use in Message.Messagee & Embed(title, author & description) & ImageText.Text:
+## Variables you can use in Message.Message & Embed(title, author & description) & ImageText.Text:
 
 |Variable|Replacement|
 |--------|-----------|
