@@ -28,7 +28,7 @@ If Message.Channel is not empty, the bot will send a message in this channel whe
 
 Channel: This will be the ChannelId where the message should be sent when a user joins. Leave empty for no message.
 
-Message: This will be the string that will be send when a user joins.
+Message: This will be the string that will be sent when a user joins.
 
 Reactions: ```unicode or emoji id``` ```Seperate with comma. Ex("😄,😎,5125125512512551")``` The bot will react to this message with these emojis.
 
