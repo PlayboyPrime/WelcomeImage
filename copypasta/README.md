@@ -14,4 +14,43 @@ Version 1.0.0
 }
 ```
 
-# Wait thats it?
+## config.json standard
+
+```json
+{
+    "Message": {
+        "Channel": "",
+        "Message": "",
+        "reactions": ""
+    },
+
+    "Embed": {
+        "Channel": "",
+        "hexcolor": "",
+        "title": "",
+        "authorurl": "",
+        "author": "",
+        "description": "",
+        "thumbnail": "",
+        "image": "",
+        "timestamp": "",
+        "footer": "",
+        "reactions": ""
+    },
+    
+    "Image": {
+
+        "ImageText2": {
+            "Text": "",
+            "Size": ""
+        },
+
+        "ImageText3": {
+            "Text": "",
+            "Size": ""
+        }
+    }
+}
+```
+
+# No thats not it.
