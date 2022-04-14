@@ -48,6 +48,8 @@ reactions: ```unicode or emoji id``` ```Seperate with comma. Ex("😄,😎,17236
 
 timestamp: ```true or false``` Will display the time when the message was sent.
 
+## Variables you can use in a Embed
+
 |Part|Variable|Replacement|
 |----|--------|-----------|
 |Thumbnail & Image|{user.avatar_url}|This will be replaced by the avatar url from the user.|
