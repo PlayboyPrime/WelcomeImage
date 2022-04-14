@@ -39,8 +39,22 @@ Version 1.0.0
     },
     
     "Image": {
+        "ImageName": "",
+        "Width": "",
+        "Height": "",
+        "AvatarShape": "",
 
         "ImageText1": {
+            "Text": "",
+            "Size": ""
+        },
+
+        "ImageText2": {
+            "Text": "",
+            "Size": ""
+        },
+
+        "ImageText3": {
             "Text": "",
             "Size": ""
         }
