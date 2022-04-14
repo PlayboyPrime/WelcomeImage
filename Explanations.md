@@ -42,8 +42,6 @@ If Embed.Channel is not empty, the bot will send a embed in this channel when a 
 
 Channel: This will be the channelId where the embed will be sent when a user joins. Leave empty for no embed.
 
-message: This will be the message content. Leave this empty for no message.
-
 reactions: ```unicode or emoji id``` ```Seperate with comma. Ex("😄,😎,17236156511551")``` The bot will react to this embed with these emojis. 
 
 timestamp: ```true or false``` Will display the time when the message was sent.
