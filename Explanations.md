@@ -48,6 +48,11 @@ reactions: ```unicode or emoji id``` ```Seperate with comma. Ex("😄,😎,17236
 
 timestamp: ```true or false``` Will display the time when the message was sent.
 
+|Part|Variable|Replacement|
+|----|--------|-----------|
+|Thumbnail & Image|{user.avatar_url}|This will be replaced by the avatar url from the user.|
+|Thumbnail & Image|{guild.icon}|This will be replaced by the guild icon url.|
+
 Everything else should be self explainatory.
 
 
