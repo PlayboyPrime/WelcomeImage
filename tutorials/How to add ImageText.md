@@ -12,7 +12,7 @@ Add a comman
 
 ![image](https://user-images.githubusercontent.com/55946112/163337925-5657e7ad-3f89-4436-8451-f496bd846d7b.png)
 
-## Paste and Rename
+## Paste and rename
 
 ![image](https://user-images.githubusercontent.com/55946112/163337993-3f371623-6b23-4625-b97d-38819a605271.png)
 
