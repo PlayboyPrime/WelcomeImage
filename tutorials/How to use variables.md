@@ -1,6 +1,6 @@
 ## You can find all variables in [Explainations.md](https://github.com/PlayboyPrime/WelcomeImage/blob/main/Explanations.md)
 
-Go to config.json and choose where you want to use variables. In this case I will use Message.Message.
+Go to config.json and choose where you want to use a variable. In this case I will use Message.Message.
 
 In my case I want to write Welcome (username).
 
