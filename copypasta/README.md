@@ -1,6 +1,6 @@
 # Here are the modules you can copy paste into config.json
 
-Version 1.0.0
+Version 1.0.1
 
 ## Dont forget to rename it upcounting and add an comma!
 ***
@@ -10,7 +10,10 @@ Version 1.0.0
 ```json
 "ImageText1": {
     "Text": "",
-    "Size": ""
+    "Size": "",
+    "hexcolor": "ffffff",
+    "X": "",
+    "Y": ""
 }
 ```
 
@@ -39,24 +42,37 @@ Version 1.0.0
     },
     
     "Image": {
-        "ImageName": "",
+        "ImageName": "background.png",
         "Width": "",
         "Height": "",
-        "AvatarShape": "",
+        
+        "Avatar": {
+            "AvatarShape": "",
+            "AvatarX": "",
+            "AvatarY": "",
+            "AvatarScale": ""
+        },
 
         "ImageText1": {
             "Text": "",
-            "Size": ""
+            "Size": "",
+            "hexcolor": "ffffff",
+            "X": "",
+            "Y": ""
         },
-
         "ImageText2": {
             "Text": "",
-            "Size": ""
+            "Size": "",
+            "hexcolor": "ffffff",
+            "X": "",
+            "Y": ""
         },
-
         "ImageText3": {
             "Text": "",
-            "Size": ""
+            "Size": "",
+            "hexcolor": "ffffff",
+            "X": "",
+            "Y": ""
         }
     }
 }
