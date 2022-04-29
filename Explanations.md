@@ -16,7 +16,7 @@
 |{user.discriminator}|Will be replaced with the users discriminator.|
 |{guild.name}|Will be replaced with the guild name.|
 |{guild.id}|Will be replaced with the guild id.|
-|{guild.member_count}|Will be replaced with the guild member count.|
+|{guild.memberCount}|Will be replaced with the guild member count.|
 
 
 ## Message
