@@ -4,7 +4,7 @@ Go to config.json and choose where you want to use a variable. In this case I wi
 
 In my case I want to write Welcome (username).
 
-To to this I have to use the {user.name} variable.
+To do this I have to use the {user.name} variable.
 
 ### Example: 
 
