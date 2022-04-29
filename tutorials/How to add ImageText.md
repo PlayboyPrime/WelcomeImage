@@ -6,17 +6,17 @@ Add a comman
 
 ## Example:
 
-![image](https://user-images.githubusercontent.com/55946112/163337894-a97df1b6-1655-4900-836d-6f36c31cbd0d.png)
+![image](https://user-images.githubusercontent.com/55946112/166075580-54ed94b6-faed-4db2-a1bc-38ab8fad3422.png)
 
 ## Copy
 
-![image](https://user-images.githubusercontent.com/55946112/163337925-5657e7ad-3f89-4436-8451-f496bd846d7b.png)
+![image](https://user-images.githubusercontent.com/55946112/166075603-903b972b-61e7-4852-b8ba-3601e16fa5f5.png)
 
 ## Paste and rename
 
-![image](https://user-images.githubusercontent.com/55946112/163337993-3f371623-6b23-4625-b97d-38819a605271.png)
+![image](https://user-images.githubusercontent.com/55946112/166075575-cee48b3c-5ad3-40fb-b05f-87a4022c2767.png)
 
 
 ## Add comma
 
-![image](https://user-images.githubusercontent.com/55946112/163338039-d4b53c96-e115-4925-9e4f-9e69e7ccd43e.png)
+![image](https://user-images.githubusercontent.com/55946112/166075613-401ff27a-83bf-4a22-b61f-a0314ef8afb9.png)
